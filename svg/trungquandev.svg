@@ -104,7 +104,7 @@
           </div>
           <div class="skills_icon">
             <img
-              src='../images/PHP-logo.svg.png'
+              src='data:../images/PHP-logo.svg.png'
             />
           </div>
           <div class="skills_icon">
