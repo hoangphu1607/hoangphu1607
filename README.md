@@ -87,7 +87,7 @@
 
 <br>
 
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<!-- <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
@@ -109,7 +109,7 @@
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
+<br> -->
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
